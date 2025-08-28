@@ -1,5 +1,9 @@
 # Patch — Hardware Automation Controller
 
+<img width="1920/2" height="1080/2" alt="pacth-transparent" src="https://github.com/user-attachments/assets/36169b20-72f2-46cb-9dfa-c112f5cc64d2" />
+
+
+
 ## Overview
 Patch is a programmable hardware panel designed for developers, engineers, and power users. It enables instant execution of custom automation scripts via physical buttons and encoders, connecting seamlessly over USB. Each button press or encoder rotation triggers user-defined Python scripts on the host computer, turning complex workflows into simple physical actions.
 
@@ -82,5 +86,4 @@ subprocess.run(["git", "push"])
 **Patch: Just press it.**
 
 
-<img width="1920" height="1080" alt="pacth-transparent" src="https://github.com/user-attachments/assets/36169b20-72f2-46cb-9dfa-c112f5cc64d2" />
 
