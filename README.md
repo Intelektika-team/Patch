@@ -1,6 +1,6 @@
 # Patch — Hardware Automation Controller
 
-<img width="1270-200" height="720-400" alt="pacth-transparent" src="https://github.com/user-attachments/assets/36169b20-72f2-46cb-9dfa-c112f5cc64d2" />
+<img width="900" height="600" alt="pacth-transparent" src="https://github.com/user-attachments/assets/36169b20-72f2-46cb-9dfa-c112f5cc64d2" />
 
 
 
