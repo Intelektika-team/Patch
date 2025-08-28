@@ -77,9 +77,10 @@ subprocess.run(["git", "push"])
 - **Issues:** GitHub Issues
 - **Discussions:** GitHub Discussions
 
-## License
-Open-source (MIT License). Feel free to modify, distribute, and contribute.
-
 ---
 
 **Patch: Just press it.**
+
+
+<img width="1920" height="1080" alt="pacth-transparent" src="https://github.com/user-attachments/assets/36169b20-72f2-46cb-9dfa-c112f5cc64d2" />
+
