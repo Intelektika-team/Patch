@@ -19,7 +19,7 @@ Patch is a programmable hardware panel designed for developers, engineers, and p
 - **Controls:** 
   - 8x Tactile buttons (programmable)
   - 2x Rotary encoders (with push-button functionality)
-- **Case:** 3D-printed matte finish with semi-transparent shell (Nothing-inspired design)
+- **Case:** 3D-printed matte finish shell
 - **Firmware:** Custom-built in C/C++ (Arduino framework compatible)
 
 ## Communication Protocol
