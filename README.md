@@ -17,7 +17,7 @@ Patch is a programmable hardware panel designed for developers, engineers, and p
 - **Microcontroller:** Raspberry Pi RP2040
 - **Interface:** USB-C (UART/CDC)
 - **Controls:** 
-  - 4x Tactile buttons (programmable)
+  - 8x Tactile buttons (programmable)
   - 2x Rotary encoders (with push-button functionality)
 - **Case:** 3D-printed matte finish with semi-transparent shell (Nothing-inspired design)
 - **Firmware:** Custom-built in C/C++ (Arduino framework compatible)
@@ -73,7 +73,7 @@ subprocess.run(["git", "push"])
 
 ## Getting Started
 1. Connect Patch via USB
-2. Run the daemon: `python patch_daemon.py --id YOUR_DEVICE_ID`
+2. Run the daemon: `patchwork --start-id YOUR_DEVICE_ID`
 3. Press a button—your script executes instantly
 
 ## Support & Community
