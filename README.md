@@ -1,4 +1,4 @@
-# Patch — Hardware Automation Controller
+# Patch — Hardware Automation Controller | Intelektika-team
 
 <img width="900" height="600" alt="pacth-transparent" src="https://github.com/user-attachments/assets/36169b20-72f2-46cb-9dfa-c112f5cc64d2" />
 
