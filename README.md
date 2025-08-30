@@ -85,7 +85,7 @@ subprocess.run(["git", "push"])
 
 **Patch: Just press it.**
 
-by Intelektika-team, teamlead - pt, status - ative development.
+by Intelektika-team, teamlead - pt, status - active development.
 
 **Intelektika 2025 - Dimitrovgrad** 
 
