@@ -85,6 +85,7 @@ subprocess.run(["git", "push"])
 
 **Patch: Just press it.**
 
+by Intelektika team, teamlead - pt.
 
 keywords-
 Intelektika team, Intelektika-team, Intelektika, Intelektika patch, team intelektika, project patch, the patch, patch
