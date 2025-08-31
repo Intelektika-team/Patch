@@ -24,13 +24,13 @@ Patch is a programmable hardware panel designed for developers, engineers, and p
 ## 🛠 Communication Protocol
 Patch communicates via serial (UART) at `115200 baud`. The protocol is text-based and human-readable.
 
-### Device Discovery
+### ► Device Discovery
 Each Patch device has a unique ID printed on its packaging. To autodiscover the device:
 
 1. Host sends: `start {id}\n`
 2. Patch responds: `started {id}\n` (if ID matches)
 
-### Event Reporting
+### ► Event Reporting
 Patch sends events in the format:  
 `{device}-{number}-{action}-{value}\n`
 
@@ -41,18 +41,18 @@ Patch sends events in the format:
 
 ## 💻 Software Setup (Host Computer)
 
-### Python Daemon
+### ► Python Daemon
 The host runs a Python daemon that:
 1. Discovers the Patch device via ID
 2. Listens for incoming events
 3. Maps events to user-defined Python scripts
 
-### Required Libraries
+### ► Required Libraries
 ```bash
 pip install pyserial
 ```
 
-### Configuration
+### ► Configuration
 Script mappings are defined in a `config.json` file:
 ```json
 {
@@ -61,7 +61,7 @@ Script mappings are defined in a `config.json` file:
 }
 ```
 
-### Example Usage
+### ► Example Usage
 ```python
 # Example script: git_push.py
 import subprocess
