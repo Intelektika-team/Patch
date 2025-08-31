@@ -86,7 +86,7 @@ subprocess.run(["git", "push"])
 
 by Intelektika-team, teamlead - pt, status - active development.
 
-**Intelektika 2025 - Dimitrovgrad** 
+**Intelektika 2025 - Dimitrovgrad - started at 30.08.2025** 
 
 keywords-
 Intelektika team, Intelektika-team, Intelektika, Intelektika patch, team intelektika, project patch, the patch, patch
