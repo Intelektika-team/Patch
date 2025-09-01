@@ -15,7 +15,7 @@ Patch is a programmable hardware panel designed for developers, engineers, and p
 ## ⚙️ Hardware Specifications
 - **Microcontroller:** Raspberry Pi RP2040
 - **Interface:** USB-C (UART/CDC)
-- **Controls:** 
+- **Controls:**
  ⚒ - 8x Tactile buttons (programmable)
   - 2x Rotary encoders (with push-button functionality)
 - **Case:** 3D-printed matte finish shell
@@ -31,7 +31,7 @@ Each Patch device has a unique ID printed on its packaging. To autodiscover the 
 2. Patch responds: `started {id}\n` (if ID matches)
 
 ### ► Event Reporting
-Patch sends events in the format:  
+Patch sends events in the format:
 `{device}-{number}-{action}-{value}\n`
 
 - **Examples:**
@@ -86,7 +86,10 @@ subprocess.run(["git", "push"])
 
 by Intelektika-team, teamlead - pt, status - active development.
 
-**Intelektika 2025 - Dimitrovgrad - started at 30.08.2025** 
+/dev branch/
+
+
+**Intelektika 2025 - Dimitrovgrad - started at 30.08.2025**
 
 keywords-
 Intelektika team, Intelektika-team, Intelektika, Intelektika patch, team intelektika, project patch, the patch, patch
