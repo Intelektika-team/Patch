@@ -1,9 +1,12 @@
 # Patch Dev
 
 ## For developers-
-[designers info & reference](https://github.com/Intelektika-team/Project-PATCH/blob/develop/fordesigner.md)
-[designers directory]
-[developers directory(https://github.com/Intelektika-team/Project-PATCH/tree/develop/scr)
+[designers info & reference](https://github.com/Intelektika-team/Project-PATCH/blob/develop/fordesigner.md) |
+[designers directory](https://github.com/Intelektika-team/Project-PATCH/tree/develop/designers)
+
+[developers info & reference](https://github.com/Intelektika-team/Project-PATCH/blob/develop/fordeveloper.md) |
+[developers directory](https://github.com/Intelektika-team/Project-PATCH/tree/develop/scr)
+
 
 
 ## 🚀 Overvie
