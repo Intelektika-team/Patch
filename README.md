@@ -20,6 +20,15 @@
 - Events send format "{device}-{number}-{action}-{value}"
     - Example: "button-1-pressed-1"
 
+ ### My own ideas - dev
+ - Create the patchworks plugin for utitool
+ - Make a unique system for sending the value by the encoder:
+   There will be only one encoder, the state of which is displayed on the display (just a number) and either this value is sent by pressing a separate button, or at the end of the communication protocol with the computer in the value value so that there are more combinations.
+
+### Inspiration - design
+Designers can find inspiration at 
+[inspiration.md](https://github.com/Intelektika-team/Project-PATCH/blob/develop/inspirationdesign.md)
+
 
 
 ## 🚀 Overvie
