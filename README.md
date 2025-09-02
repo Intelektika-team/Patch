@@ -7,6 +7,19 @@
 [developers info & reference](https://github.com/Intelektika-team/Project-PATCH/blob/develop/fordeveloper.md) |
 [developers directory](https://github.com/Intelektika-team/Project-PATCH/tree/develop/scr)
 
+### About patch - dev
+- Baudrate - 115200 baud
+- Id form - xxxx-xxxx-abcd-xabc
+    - example - 1234-5678-T3st-1qwE
+- Hardware:
+    - Rp 2040
+    - 8 buttons, encoders
+- Frimware:
+    - Arduino cpp
+    - Python3 api
+- Events send format "{device}-{number}-{action}-{value}"
+    - Example: "button-1-pressed-1"
+
 
 
 ## 🚀 Overvie
