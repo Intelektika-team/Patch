@@ -18,7 +18,9 @@
     - Arduino cpp
     - Python3 api
 - Events send format "{device}-{number}-{action}-{value}"
-    - Example: "button-1-pressed-1"
+    - Example: "button-1-pressed-1", 
+    "button-1-released-0", 
+    "encoder-2-rotated-10" (value represents rotation steps),
 
  ### My own ideas - dev
  - Create the patchworks plugin for utitool
