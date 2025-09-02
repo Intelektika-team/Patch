@@ -1,4 +1,4 @@
-# Patch Dev
+# Patch | Dev
 
 ## For developers-
 [designers info & reference](https://github.com/Intelektika-team/Project-PATCH/blob/develop/fordesigner.md) |
