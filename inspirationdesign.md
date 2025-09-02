@@ -5,7 +5,6 @@
 ![photo_2025-09-02 18 40 53](https://github.com/user-attachments/assets/3231e12e-f808-4a5d-b0d3-44458172045d)
 ![photo_2025-09-02 18 40 54](https://github.com/user-attachments/assets/4f07e558-3c02-4bf5-9edd-1f21d3616ecf)
 ![photo_2025-09-02 18 40 55](https://github.com/user-attachments/assets/81fb7e2a-9de8-4faa-a5e3-1b9863b0da10)
-![photo_2025-09-02 18 40 56](https://github.com/user-attachments/assets/eb27ff7b-11e4-47a1-8309-427336cc48a6)
 
 
 ## Products-
