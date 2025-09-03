@@ -33,6 +33,7 @@ Designers can find inspiration at
 
 
 
+
 ## 🚀 Overview
 Patch is a programmable hardware panel designed for developers, engineers, and power users. It enables instant execution of custom automation scripts via physical buttons and encoders, connecting seamlessly over USB. Each button press or encoder rotation triggers user-defined Python scripts on the host computer, turning complex workflows into simple physical actions.
 
