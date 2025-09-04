@@ -1,5 +1,7 @@
 # Patch | Intelektika-team
 Hardware Automation Controller
+
+
 <img width="900" height="600" alt="pacth-transparent" src="https://github.com/user-attachments/assets/36169b20-72f2-46cb-9dfa-c112f5cc64d2" />
 
 
@@ -84,7 +86,7 @@ subprocess.run(["git", "push"])
 
 **Patch: Just press it.**
 
-by Intelektika-team, teamlead - pt, status - active development.
+by Intelektika-team, Teamlead - pt, status - active development.
 
 **Intelektika 2025 - Dimitrovgrad - started at 30.08.2025** 
 
