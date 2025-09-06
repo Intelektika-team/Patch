@@ -10,7 +10,7 @@
 ### About patch - dev
 - Baudrate - 115200 baud
 - Id form - xxxx-xxxx-abcd-xabc
-    - example - 1234-5678-T3st-1qwE
+    - example - 1234-5678-T3st-1qwI
 - Hardware:
     - Rp 2040
     - 8 buttons, encoders
