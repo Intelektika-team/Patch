@@ -93,4 +93,4 @@ by Intelektika-team, Teamlead - pt, status - active development.
 **Intelektika 2025 - Dimitrovgrad - started at 30.08.2025** 
 
 keywords-
-Intelektika team, Intelektika-team, Intelektika, Intelektika patch, team intelektika, project patch, the patch, patch
+Intelektika team, Intelektika-team, Intelektika, Intelektika patch, team intelektika, project patch, the patch, patch, kvantorium, dimitrovgrad, Кванториум73, Кванториум Димитровград, Кванториум Патч
