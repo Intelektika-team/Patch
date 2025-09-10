@@ -78,10 +78,10 @@ subprocess.run(["git", "push"])
 3. Press a button—your script executes instantly
 
 ## ✅ Support & Community
-- **Documentation:** [docs](https://github.com/Intelektika-team/Project-PATCH)
+- **Documentation:** [docs](https://github.com/Intelektika-team/Patch)
 - **Issues:** GitHub Issues
 - **Discussions:** GitHub Discussions
-- [**wiki**](https://github.com/Intelektika-team/Project-PATCH/wiki)
+- [**wiki**](https://github.com/Intelektika-team/Patch/wiki)
 ---
 
 
