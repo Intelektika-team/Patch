@@ -1,11 +1,11 @@
 # Patch | Dev
 
 ## For developers-
-[designers info & reference](https://github.com/Intelektika-team/Project-PATCH/blob/develop/fordesigner.md) |
-[designers directory](https://github.com/Intelektika-team/Project-PATCH/tree/develop/designers)
+[designers info & reference](https://github.com/Intelektika-team/Patch/blob/develop/fordesigner.md) |
+[designers directory](https://github.com/Intelektika-team/Patch/tree/develop/designers)
 
-[developers info & reference](https://github.com/Intelektika-team/Project-PATCH/blob/develop/fordeveloper.md) |
-[developers directory](https://github.com/Intelektika-team/Project-PATCH/tree/develop/scr)
+[developers info & reference](https://github.com/Intelektika-team/Patch/blob/develop/fordeveloper.md) |
+[developers directory](https://github.com/Intelektika-team/Patch/tree/develop/scr)
 
 ### About patch - dev
 - Baudrate - 115200 baud
@@ -29,7 +29,7 @@
 
 ### Inspiration - design
 Designers can find inspiration at 
-[inspiration.md](https://github.com/Intelektika-team/Project-PATCH/blob/develop/inspirationdesign.md)
+[inspiration.md](https://github.com/Intelektika-team/Patch/blob/develop/inspirationdesign.md)
 
 
 
@@ -107,10 +107,10 @@ subprocess.run(["git", "push"])
 3. Press a button—your script executes instantly
 
 ## ✅ Support & Community
-- **Documentation:** [docs](https://github.com/Intelektika-team/Project-PATCH)
+- **Documentation:** [docs](https://github.com/Intelektika-team/Patch)
 - **Issues:** GitHub Issues
 - **Discussions:** GitHub Discussions
-- [**wiki**](https://github.com/Intelektika-team/Project-PATCH/wiki)
+- [**wiki**](https://github.com/Intelektika-team/Patch/wiki)
 ---
 
 **Patch: Just press it.**
