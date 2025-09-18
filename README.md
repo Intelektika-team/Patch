@@ -59,7 +59,7 @@ Patch communicates via serial (UART) at `115200 baud`. The protocol is text-base
 Each Patch device has a unique ID printed on its packaging. To autodiscover the device:
 
 1. Host sends: `start {id}\n`
-2. Patch responds: `started {id}\n` (if ID matches)
+3. Patch responds: `started {id}\n` (if ID matches)
 
 ### ► Event Reporting
 Patch sends events in the format:
